@@ -1,0 +1,130 @@
+{
+    "name": "Pixel City",
+    "description": "A theme of Pixel City animated background. DARK MODE REQUIRED!",
+    "authors": [
+        {
+            "name": "asianlyf",
+            "id": "132598243199680512"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#4c7f90"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#4c7f90"
+        ],
+        "TEXT_LINK": [
+            "#4c7f90"
+        ],
+        "TEXT_DANGER": [
+            "#4c7f90"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#808080"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#081924"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#081924"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#081924"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#081924"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#4c7f90"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#081924"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#081924"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#081924"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#081924"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#0D126165"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#081924"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#4c7f90"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#081924"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#081924"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "transparent"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#999999"
+        ],
+        "CHAT_BACKGROUND": [
+            "#081924"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#c4c4c4"
+        ],
+        "TEXT_LINK": [
+            "#4c7f90"
+        ],
+        "CHANNEL_ICON": [
+            "#ffffff"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#ffffff",
+        "PRIMARY_360": "#4c7f90",
+        "PRIMARY_500": "#4c7f90",
+        "PRIMARY_600": "#081924",
+        "PRIMARY_630": "#081924",
+        "PRIMARY_660": "#081924",
+        "PRIMARY_700": "#081924",
+        "PRIMARY_800": "#081924",
+        "BRAND_260": "#4c7f90",
+        "BRAND_360": "#4c7f90",
+        "BRAND_500": "#4c7f90",
+        "BRAND_560": "#ffffff",
+        "WHITE_500": "#ffffff",
+        "BLUE_345": "#4c7f90",
+        "YELLOW_300": "#4c7f90",
+        "ORANGE_345": "#4c7f90",
+        "GREEN_345": "#4c7f90",
+        "GREEN_360": "#4c7f90",
+        "RED_560" : "#4c7f90",
+        "RED_400": "#4c7f90"
+    },
+    "spec": 2,
+    "background": {
+        "url": "https://media.discordapp.net/attachments/999372192531890256/1246118225519972383/sparkle_honkai_and_1_more_drawn_by_shi_classmate__0ec331ec8c2e9f6f7a98e379bc88a855.jpg?ex=665b3988&is=6659e808&hm=c6c497624c99b710c7ac5a2bf88022808cc75a0a1b66df1d6cb419bfd858af25",
+        "alpha": 0.5,
+        "color": "#081924"
+    }
+}
+
