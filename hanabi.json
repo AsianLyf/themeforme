@@ -1,6 +1,6 @@
 {
-    "name": "Pixel City",
-    "description": "A theme of Pixel City animated background. DARK MODE REQUIRED!",
+    "name": "Hanabi",
+    "description": "Hanabi. DARK MODE REQUIRED!",
     "authors": [
         {
             "name": "asianlyf",
@@ -122,7 +122,7 @@
     },
     "spec": 2,
     "background": {
-        "url": "https://media.discordapp.net/attachments/999372192531890256/1246118225519972383/sparkle_honkai_and_1_more_drawn_by_shi_classmate__0ec331ec8c2e9f6f7a98e379bc88a855.jpg?ex=665b3988&is=6659e808&hm=c6c497624c99b710c7ac5a2bf88022808cc75a0a1b66df1d6cb419bfd858af25",
+        "url": "https://i.imgur.com/7rua7rG.jpeg",
         "alpha": 0.5,
         "color": "#081924"
     }
